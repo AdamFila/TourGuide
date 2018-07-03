@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Food</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_churches">Churches</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_monuments">Monuments</string>
+
+    <!-- Strings for Restaurants-->
+    <!-- Name -->
+    <string name="kasztelanka">Kasztelanka</string>
+    <string name="nat_sushi">Nat-Sushi</string>
+    <string name="cafe_mala">Cafe Mala</string>
+    <string name="calimero_cafe">Calimero Cafe</string>
+    <string name="iluzjon_art_cafe">Iluzjon Art Cafe</string>
+    <string name="bistro_podwale">Bistro Podwale</string>
+    <string name="trattoria">Trattoria</string>
+    <string name="mariano">Mariano</string>
+    <string name="pizza_zone">Pizza Zone</string>
+    <string name="don_matteo">Don Matteo</string>
+    <!-- Address -->
+    <string name="rynek_13_14_street">Rynek 13/14 Street</string>
+    <string name="rynek_5_street">Rynek 5 Street</string>
+    <string name="gen_michala_sokolnickiego_3_street">Gen. Michala Sokolnickiego 3 Street</string>
+    <string name="opatowska_9_street">Opatowska 9 Street</string>
+    <string name="rynek_25_26_street">Rynek 25/26 Street</string>
+    <string name="podwale_dolne_8a_street">Podwale Dolne 8a Street</string>
+    <string name="mickiewicza_36_street">Mickiewicza 36 Street</string>
+    <string name="kosely_5_street">Kosely 5 Street</string>
+    <string name="adama_mickiewicza_36_street">Adama Mickiewicza 36 Street</string>
+
+    <!-- Strings for Hotels-->
+    <!-- Name -->
+    <string name="pod_ciżemką">Pod Ciżemką</string>
+    <string name="basztowy">Basztowy</string>
+    <string name="sarmata">Sarmata</string>
+    <string name="korona">Korona</string>
+    <string name="mały_rzym">Mały Rzym</string>
+    <string name="grodzki">Grodzki</string>
+    <string name="imperial_residence">Imperial Residence</string>
+    <string name="dwór_dwikozy">Dwór Dwikozy</string>
+    <!-- Address -->
+    <string name="rynek_street">Rynek Street</string>
+    <string name="pl_ks_j_poniatowskiego_street">Pl. Ks. j. Poniatowskiego Street</string>
+    <string name="zawichojska_street">Zawichojska Street</string>
+    <string name="slowackiego_street">Slowackiego Street</string>
+    <string name="okrzei_treet">Okrzei Street</string>
+    <string name="mickiewicza_street">Mickiewicza Street</string>
+    <string name="różana_street">Różana Street</string>
+    <string name="spółdzielcza_street">Spółdzielcza Street</string>
+
+    <!-- Strings for Churches-->
+    <!-- Name -->
+    <string name="kościół_pw_św_pawła">Kościół pw. św. Pawła</string>
+    <string name="kościół_pw_św_ducha">Kościół pw. św. Ducha</string>
+    <string name="kościół_pw_św_józefa">Kościół pw. św. Józefa</string>
+    <string name="kościół_pw_św_jakuba">Kościół pw. św. Jakuba</string>
+    <string name="bazylika_katedralna">Bazylika Katedralna</string>
+    <string name="wyższe_seminarium_duchowe">Wyższe Seminarium Duchowe</string>
+    <!-- Address -->
+    <string name="staromiejska_11_street">Staromiejska 11 Street</string>
+    <string name="opatowska_10_street">Opatowska 10 Street</string>
+    <string name="plac_św_wojciecha_2_street">Plac św. Wojciecha 2 Street</string>
+    <string name="staromiejska_3_street">Staromiejska 3 Street</string>
+    <string name="katedralna_1_street">Katedralna 1 Street</string>
+    <string name="stefana_zeromskiego_street">Stefana Żeromskiego Street</string>
+
+    <!-- Strings for Monuments-->
+    <!-- Name -->
+    <string name="starówka">Starówka</string>
+    <string name="piwnice_podziemnej_trasy">Piwnice Podziemnej Trasy</string>
+    <string name="brama_opatowska">Brama Opatowska</string>
+    <string name="kamienica_oleśnickich">Kamienica Oleśnickich</string>
+    <string name="rynek_starego_miasta">Rynek Starego Miasta</string>
+    <string name="collegium_gostomianum">Collegium Gostomianum</string>
+    <string name="the_castle">The Castle</string>
+    <string name="dom_długosza">Dom Długosza</string>
+    <!-- Address -->
+    <string name="opatowska_street">Opatowska Street</string>
+    <string name="rynek_10_street">Rynek 10 Street</string>
+    <string name="town_square">Town Square</string>
+    <string name="jana_długosza_street">Jana Długosza Street</string>
+    <string name="zamkowa_12_street">Zamkowa 12 Street</string>
+    <string name="jana_długosza_9_street">Jana Długosza 9 Street</string>
+
+</resources>
